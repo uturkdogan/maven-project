@@ -1,6 +1,7 @@
 /**
- * Some Comment
+ * Some Comment.
  *
  */
 
 package com.example;
+
